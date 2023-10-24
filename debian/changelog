@@ -1,3 +1,9 @@
+distro-info-data (0.52ubuntu0.5) jammy; urgency=medium
+
+  * Add Ubuntu 24.04 LTS Noble N. (LP: #2040193)
+
+ -- Brian Murray <brian@ubuntu.com>  Mon, 23 Oct 2023 17:00:37 -0700
+
 distro-info-data (0.52ubuntu0.4) jammy; urgency=medium
 
   * Add Ubuntu 23.10 Mantic Minotaur. (LP: #2018028)
