@@ -1,3 +1,9 @@
+distro-info-data (0.52ubuntu0.8) jammy; urgency=medium
+
+  * Add Ubuntu 25.04 "Plucky Puffin" (LP: #2084572)
+
+ -- Benjamin Drung <bdrung@ubuntu.com>  Thu, 17 Oct 2024 12:43:19 +0200
+
 distro-info-data (0.52ubuntu0.7) jammy; urgency=medium
 
   [ Santiago Ruano Rincón ]
