@@ -1,3 +1,10 @@
+distro-info-data (0.52ubuntu0.9) jammy; urgency=medium
+
+  * Add Ubuntu 25.10 "Questing Quokka" (LP: #2107391)
+  * Add Debian 15 "Duke"
+
+ -- Benjamin Drung <bdrung@ubuntu.com>  Wed, 23 Apr 2025 12:00:31 +0200
+
 distro-info-data (0.52ubuntu0.8) jammy; urgency=medium
 
   * Add Ubuntu 25.04 "Plucky Puffin" (LP: #2084572)
