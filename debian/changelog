@@ -1,3 +1,9 @@
+distro-info-data (0.52ubuntu0.12) jammy; urgency=medium
+
+  * Add Ubuntu 26.10 "Stonking Stingray" (LP: #2150234)
+
+ -- Oliver Reiche <oliver.reiche@canonical.com>  Tue, 28 Apr 2026 16:20:05 +0200
+
 distro-info-data (0.52ubuntu0.11) jammy; urgency=medium
 
   * ubuntu.csv: remove eol-legacy field from resolute
